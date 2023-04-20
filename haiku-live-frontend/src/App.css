@@ -1,0 +1,10 @@
+#root {
+  height: 100vh;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #d6b18f;
+  background-image: url('fog-forest-cut.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
